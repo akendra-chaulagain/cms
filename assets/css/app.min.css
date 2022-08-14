@@ -4167,3 +4167,31 @@ height: 300px;
   border-radius: 5px;
   padding: 4px 20px 4px 20px;
 }
+
+
+
+
+.thumbNailBtn {
+  margin-top: 15px;
+}
+.thumbNailBtn button{
+  padding: 6px 40px;
+  outline: none;
+  border: none;
+  background-color: #33B141;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+
+.login_button{
+   padding: 6px 40px;
+  outline: none;
+  border: none;
+  background-color: #33B141;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  width: 100%;
+}
